@@ -20,8 +20,8 @@ function scrollFunction() {
     $('.fancybox').fancybox();
   });
   // preloader
-  setTimeout(function(){
+ /* setTimeout(function(){
     $('.loader_bg').fadeToggle();
-}, 1000);
+}, 1000);*/
 // animation 
 AOS.init();
