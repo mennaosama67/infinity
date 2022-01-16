@@ -22,6 +22,6 @@ function scrollFunction() {
   // preloader
   setTimeout(function(){
     $('.loader_bg').fadeToggle();
-}, 2000);
+}, 1000);
 // animation 
 AOS.init();
